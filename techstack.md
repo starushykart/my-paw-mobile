@@ -3,7 +3,11 @@
 ## Tech Stack
 starushykart/my-paw-mobile is built on the following main stack:
 
-
+- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- [C#](http://csharp.net) – Languages
+- [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
+- [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -13,7 +17,11 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 starushykart/my-paw-mobile is built on the following main stack:
 
-
+- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png' alt='C#'/> [C#](http://csharp.net) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1451/SR2hUhQN.png' alt='Visual Studio'/> [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
+- <img width='25' height='25' src='https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg' alt='LangChain'/> [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png' alt='pgvector'/> [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -24,11 +32,50 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [starushykart/my-paw-mobile](https://github.com/starushykart/my-paw-mobile)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|1<br/>Tools used|12/03/23 <br/>Report generated|
+|8<br/>Tools used|12/14/23 <br/>Report generated|
 |------|------|
 </div>
 
-## <img src='https://img.stackshare.io/devops.svg'/> DevOps (1)
+## <img src='https://img.stackshare.io/languages.svg'/> Languages (1)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png' alt='C#'>
+  <br>
+  <sub><a href="http://csharp.net">C#</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+</table>
+
+## <img src='https://img.stackshare.io/frameworks.svg'/> Frameworks (1)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'>
+  <br>
+  <sub><a href="http://www.microsoft.com/net/">.NET</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+</table>
+
+## <img src='https://img.stackshare.io/databases.svg'/> Data (1)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png' alt='pgvector'>
+  <br>
+  <sub><a href="https://github.com/pgvector/pgvector/">pgvector</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+</table>
+
+## <img src='https://img.stackshare.io/devops.svg'/> DevOps (3)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/1046/git.png' alt='Git'>
@@ -38,8 +85,46 @@ Full tech stack [here](/techstack.md)
   <sub></sub>
 </td>
 
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg' alt='NuGet'>
+  <br>
+  <sub><a href="https://www.nuget.org/">NuGet</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1451/SR2hUhQN.png' alt='Visual Studio'>
+  <br>
+  <sub><a href="http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx">Visual Studio</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
 </tr>
 </table>
+
+## Other (1)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg' alt='LangChain'>
+  <br>
+  <sub><a href="https://github.com/hwchase17/langchain">LangChain</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+</table>
+
+
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (1)</h2>
+
+## <img width='24' height='24' src='https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg'/> NuGet (1)
+
+|NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
+|:------|:------|:------|:------|:------|:------|
+|[Microsoft.Extensions.Logging.Debug](https://www.nuget.org/Microsoft.Extensions.Logging.Debug)|v8.0.0|12/03/23|Artem Starushyk |Apache-2.0|N/A|
 
 <br/>
 <div align='center'>

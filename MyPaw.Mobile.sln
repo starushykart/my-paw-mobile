@@ -1,16 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPaw.Mobile.App", "src\MyPaw.Mobile.App\MyPaw.Mobile.App.csproj", "{483C1A46-A019-461D-A729-8984CFAD4ACB}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{483C1A46-A019-461D-A729-8984CFAD4ACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{483C1A46-A019-461D-A729-8984CFAD4ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{483C1A46-A019-461D-A729-8984CFAD4ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{483C1A46-A019-461D-A729-8984CFAD4ACB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
